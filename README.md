@@ -1,0 +1,2 @@
+# Stores
+General Store Manager
